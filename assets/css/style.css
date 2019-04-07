@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/preview16.jpg);
+}
+
+.container {
+    background-color: #29154f;
+    color: white;
+}
+
+h1 {
+    font-family: "Megrim", cursive;
+    font-size: 70px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+p {
+    font-family: "Megrim", cursive;
+    font-size: 25px;
+}
+
+img {
+    width: 160px;
+    height: 160px;
+}
